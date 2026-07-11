@@ -116,5 +116,5 @@ seaborn
 ​
 ## 🎬 Demo & Repository
 
-- **📁 GitHub Repository:** [https://github.com/bnvreddy/opticrop](https://github.com/bnvreddy/opticrop)
+- **📁 GitHub Repository:** [https://github.com/Priya-Anuhya9182/opticrop](https://github.com/bnvreddy/opticrop)
 - **🎥 Video Demonstration:** [Click here to watch the complete project demo](https://drive.google.com/drive/folders/1ewEHUclMIKXJpvqMua06OdSWKsvrCpSn)
